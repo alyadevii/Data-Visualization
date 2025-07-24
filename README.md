@@ -1,33 +1,42 @@
 # Data Visualization Examples
 
-This repository contains examples of data visualization projects that I created using Looker Studio and Tableau.
+This repository contains examples of data visualizations created using Looker Studio and Tableau. The visualizations showcase insights from various datasets, demonstrating different dashboard designs and analytical perspectives.
+
+---
+
+## Tools Used
+
+- **Looker Studio**  
+- **Tableau**
 
 ---
 
 ## Contents
 
-- Sample dashboards and reports created with Looker Studio  
-- Data visualizations built using Tableau  
-- Supporting images and files demonstrating different visualization techniques
+- COVID-19 Dashboard: Visualizes total deaths by province, new cases over time, active cases by island, and recovery data.  
+- E-Commerce Dashboard: Displays sales by country, sales by product category, daily sales trends, and top-selling products.  
+- Netflix Movies and TV Shows Dashboard: Shows distribution of movies and TV shows worldwide, number per year, top directors, and rating system overview.
 
 ---
 
-## Purpose
+## How to Use
 
-The goal of this repository is to showcase my skills in creating interactive and insightful data visualizations using popular BI tools like Looker Studio and Tableau.
-
----
-
-## Usage
-
-Feel free to explore the dashboards and images to understand various visualization styles and methods. These examples can be used as references for building your own data visualizations.
+You can browse the dashboards by opening the image files located in this repository. These images are snapshots of interactive dashboards designed to provide clear insights into the data.
 
 ---
 
-## Contact
+## Insights & Conclusions
 
-If you have any questions or feedback, please reach out to me.
+- COVID-19 data highlights the regions most affected in terms of deaths and active cases, with a detailed view of recovery progress.  
+- E-Commerce data reveals consumer segments driving sales and product categories with highest revenue.  
+- Netflix dashboard shows trends in content production over years, popular genres, and distribution worldwide.
 
 ---
 
-Thank you for visiting this repository!
+## License
+
+This project is for educational purposes and open to anyone interested in data visualization techniques.
+
+---
+
+Thank you for visiting!
